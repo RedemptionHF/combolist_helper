@@ -24,7 +24,7 @@
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/RedemptionHF/combolist_helper
-cd combolist_helper-main
+cd combolist_helper
 ```
 
 ### 2. Build the Project
