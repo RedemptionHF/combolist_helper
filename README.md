@@ -1,14 +1,14 @@
 
 # ComboList Helper
 
-**ComboList Helper** is a high-performance Rust-based command-line utility designed to simplify some tasks commonly used when making combolists. Built with Rust, it delivers robust performance while remaining easy to use.
+**ComboList Helper** is a high-performance Rust-based command-line utility designed to simplify some tasks commonly used when making combo lists. Built with Rust, it delivers robust performance while remaining easy to use.
 
 ---
 
 ## 🚀 Features
 
 - **Convert Email to Users**: Converts `email:password` to `user:password` for combo lists.
-- **Merge Email/Username with Passwords**: Combines two separate files into one, creating a email/username:password combo file.
+- **Merge Emails/Usernames with Passwords**: Combines two separate files into one, creating an `email/username:password` combo file.
 - **Generate Fake Combinations**: Effortlessly create `email:password`, `usernames`, `emails`, and `passwords` combos for testing purposes.  
 
 ---
